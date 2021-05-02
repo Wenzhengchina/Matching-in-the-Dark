@@ -1,6 +1,6 @@
 <!--<h3><b>Matching in the Dark</b></h3>-->
 ## <b>MID dataset</b> [[Homepage]](https://wenzhengchina.github.io/projects/mid/) <br>
-[Wenzheng song](https://Wenzhengchina.github.io/), [Masanori Suganuma](), [Xing Liu](), [Noriyuki Shimobayashi](), [Daisuke Maruta](), [Takayuki Okatani]().
+[Wenzheng Song](https://Wenzhengchina.github.io/), [Masanori Suganuma](), [Xing Liu](), [Noriyuki Shimobayashi](), [Daisuke Maruta](), [Takayuki Okatani]().
 
 **+ Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**
 
