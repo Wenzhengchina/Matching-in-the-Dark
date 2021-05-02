@@ -8,7 +8,7 @@
 evaluation challenge in extreme low-light conditions. This dataset also can be used for low-light Raw image-enhancing evaluation. See the [paper]() for more details.
 
 
-![Teaser Image](https://github.com/Wenzhengchina/Matching-in-the-Dark/images/samples.png)
+![Teaser Image](https://github.com/Wenzhengchina/Matching-in-the-Dark/tree/main/images/samples.png)
 
 If there is a need to manually get the `MID dataset`, download
 and untar the following file:
