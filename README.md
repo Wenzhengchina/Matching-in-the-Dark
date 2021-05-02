@@ -7,6 +7,15 @@
 **[Introduction]** This repository contains details about the `MID` (Matching in the Dark) dataset. The `MID` dataset was introduced as a benchmark for local descriptor
 evaluation challenge in extreme low-light conditions. This dataset also can be used for low-light Raw image-enhancing evaluation. See the [paper]() for more details.
 
+* The dataset contains diverse scenes consisting of 54 outdoor and 54 indoor scenes.
+
+* For each scene, we provide one pair of groups of multiple RAW-format images captured from different two positions.
+
+* In each group, there are 48 (6 shutter speeds × 8 ISO settings) underexposure images and one correspond long-exposure image.
+
+* We provide ground truth relative camera pose for each scene obtained with long-exposure images.
+
+Here are example stereo image pairs (long exposure versions) of four indoor scenes and four outdoor scenes!
 
 ![Teaser Image](./images/samples.png)
 
