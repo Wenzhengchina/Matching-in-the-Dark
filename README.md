@@ -15,7 +15,7 @@ evaluation challenge in extreme low-light conditions. This dataset also can be u
 
 * We provide ground truth relative camera pose for each scene obtained with long-exposure images.
 
-Here are example stereo image pairs (long exposure versions) of four indoor scenes and four outdoor scenes!
+**[Samples]** Here are example stereo image pairs (long exposure versions) of four indoor scenes and four outdoor scenes!
 
 ![Teaser Image](./images/samples.png)
 
@@ -25,7 +25,7 @@ and untar the following file:
 * [MID](https://drive.google.com/drive/folders/1_K-gnCcbyVIa8zzTVC8EGsCZRi8V2hGQ?usp=sharing) [460GB].
 ### Citation ###
 
-If you find these models useful for your resesarch, please cite with these bibtexs.
+If you find these models useful for your resesarch, please cite with this bibtex.
 
 ```
 
