@@ -7,7 +7,7 @@ evaluation challenge in extreme low-light conditions.
 
 See the [homepage](https://) of `MID dataset` for more details.
 
-If there is a need to manually get the `MID` dataset, download
+If there is a need to manually get the `MID dataset`, download
 and untar the following file:
 
 * [MID](https://drive.google.com/drive/folders/1_K-gnCcbyVIa8zzTVC8EGsCZRi8V2hGQ?usp=sharing) [460GB].
