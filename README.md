@@ -1,11 +1,13 @@
 ## <b>Matching in the Dark</b>
 
-This webpage template was made for a [colorful ECCV paper](http://richzhang.github.io/colorization/). See how the webpage looks [here](https://richzhang.github.io/webpage-template).
+This repository contains details about the `MID` (Matching in the Dark) dataset. 
 
-To use this template, clone the repo:
+The `MID` dataset was introduced as a benchmark in [Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes](http://) for local descriptor
+evaluation challenge in extreme low-light conditions. 
 
-```
-git clone https://github.com/richzhang/webpage-template.git
-```
+See the [homepage](https://) of `MID dataset` for more details.
 
-Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
+If there is a need to manually get the `MID` dataset, download
+and untar the following file:
+
+* [MID](https://drive.google.com/drive/folders/1_K-gnCcbyVIa8zzTVC8EGsCZRi8V2hGQ?usp=sharing) [460GB].
